@@ -205,6 +205,54 @@ font-size: 18px;
     margin-right: 15px;
     font-size: 16px;
 }
+/* Join With Us */
+.join-with-us{
+    background-color:aliceblue;
+    padding-top: 40px;
+}
+.join-description{
+    text-align: center;
+}
+.form-and-img{
+    display: flex;
+    justify-content: space-around;
+}
+.join-img{
+    width: 650px;
+    height: 400px;
+    margin-top: 100px;
+}
+.join-title{
+    font-size: 50px;
+}
+.join-para{
+    font-size: 35px;
+}
+.form-name{
+    font-size: 30px;
+}
+.name-input{
+    width: 250px;
+    height: 40px;
+}
+.form-email{
+    font-size: 30px;
+}
+.email-input{
+    width: 250px;
+    height: 40px;
+}
+.form-image{
+    font-size: 30px;
+}
+.form-file{
+    width: 300px;
+    height: 150px;
+}
+#form-btn{
+    margin-bottom: 80px;
+    margin-left: 130px;
+}
 /* footer style */
 .footer{
     background-color: #272727;
